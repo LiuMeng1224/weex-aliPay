@@ -28,15 +28,7 @@ AliPayPlugin是一个weex插件，可以通过weexpack快速集成，可以丰�
 
 # 已有工程集成
 ## iOS集成插件AliPayPlugin
-- 命令行集成
-  ```
-  weexpack plugin add AliPayPlugin
-  ```
-- 手动集成
-  在podfile 中添加
-  ```
-  pod 'AliPayPlugin'
-  ```
+暂未开发
 
 ## 安卓集成插件AliPayPlugin
 - 命令行集成
@@ -61,4 +53,5 @@ AliPayPlugin是一个weex插件，可以通过weexpack快速集成，可以丰�
   ```
   AliPayPlugin:{$version}'
   ``` 
-  
+  使用方法：
+  可以查看支付宝支付集成文档.docx文档
